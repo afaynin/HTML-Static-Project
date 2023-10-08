@@ -1,7 +1,29 @@
-body{
+.body{
     background-color:yellow;
+    text-align: center;
+    width: 60%;
+    margin: auto;
+    border-radius: 4%;
     
 }
 p{
     font-family: "Comic Sans MS", "Comic Sans";
+}
+nav{
+    background-color: yellowgreen;
+    border-radius: 50%;
+}
+.navigation{
+    list-style-type: none;
+}
+body{
+    background-image: url(plant.png);
+}
+table{
+    margin: auto;
+}
+a{
+    color: azure;
+    text-emphasis: open;
+    text-shadow: 2px 2px 5px red;
 }
